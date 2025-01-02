@@ -73,6 +73,3 @@ function displayResults(character){
 
 showQuestion(quizQuestions[currentQuestionIndex]);
 
-document.getElementById('submit').addEventListener('click', () => {
-    //handle submitting answers here
-});
